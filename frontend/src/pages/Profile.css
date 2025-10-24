@@ -1,0 +1,11 @@
+.profile-page {
+  min-height: 80vh;
+  padding: 3rem 0;
+}
+
+.profile-card {
+  background: var(--bg-secondary);
+  padding: 2rem;
+  border-radius: 12px;
+  margin-top: 2rem;
+}
