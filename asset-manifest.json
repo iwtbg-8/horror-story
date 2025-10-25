@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/horror-story/static/css/main.3be5e58a.css",
+    "main.js": "/horror-story/static/js/main.86351e6b.js",
+    "index.html": "/horror-story/index.html",
+    "main.3be5e58a.css.map": "/horror-story/static/css/main.3be5e58a.css.map",
+    "main.86351e6b.js.map": "/horror-story/static/js/main.86351e6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3be5e58a.css",
+    "static/js/main.86351e6b.js"
+  ]
+}
